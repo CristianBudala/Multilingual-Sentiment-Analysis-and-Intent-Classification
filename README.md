@@ -7,3 +7,4 @@ For Intent Classification, the DistilBERT model was trained on a dataset of 6500
 
 The methodology is explained in more detail in my paper: Budala, C., Multilingual Sentiment Analysis and Intent Classification in the Romanian language: an approach for enhanced Corporate Consumer Engagement on Social Media. 2024. Please cite if you use this method.
 
+This research was part of my Bachelors thesis at the Bucharest University of Economics (ASE).
